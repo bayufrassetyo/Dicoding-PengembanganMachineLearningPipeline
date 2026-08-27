@@ -33,3 +33,11 @@ Proyek ini merupakan implementasi _end-to-end Machine Learning Pipeline_ menggun
    mlops-tfx\Scripts\activate.bat
    pip install -r requirements.txt
    ```
+
+---
+
+## 📸 Bukti Model Serving dengan Docker
+
+Berikut merupakan bukti tangkapan layar (_screenshot_) dari TensorFlow Serving yang berhasil dijalankan di dalam kontainer Docker lokal:
+
+![Docker Serving Status](docker_serving_screenshot.png)
