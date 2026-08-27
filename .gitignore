@@ -1,9 +1,11 @@
-# ditambahkan di sesi 1
+# Mengabaikan berkas sampah sistem bawaan komputer & lokal python
 __pycache__/
 *.py[cod]
 mlops-tfx/
 .ipynb_checkpoints/
 
-# ditambahkan di sesi 2
+# Sesi 2 & 3: Mengabaikan berkas database metadata dan cache raksasa TFX
 *.db
 *.db-journal
+pipelines/
+metadata/
