@@ -1,4 +1,9 @@
+# ditambahkan di sesi 1
 __pycache__/
 *.py[cod]
 mlops-tfx/
 .ipynb_checkpoints/
+
+# ditambahkan di sesi 2
+*.db
+*.db-journal
